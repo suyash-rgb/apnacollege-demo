@@ -1,4 +1,4 @@
 # apnacollege-demo
 first Git repository
 <br>
-Author- Suyash Baoney
+Author- Suyash Baoney(HairWizard)
